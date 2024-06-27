@@ -16,3 +16,22 @@
 - critical thinking
 - problem-solving
 - teamwork
+## Education  
+*Saint-Petersburg State Pediatric Medical University* Pediatric faculty 2021  
+## English level 
+**B1** *Intermediate*  
+## Code examples  
+```javascript
+function fakeBin(text){
+var result = '';
+  for (var i of text) {
+    if (i<5)
+      result += 0;
+    else
+      result += 1;
+  }
+  return result;
+}  
+``` 
+## Work experience  
+[rs_school project] (https://github.com/ksuersh/rsschool-cv.git)  
