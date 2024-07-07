@@ -33,3 +33,14 @@ h1 {
     padding: 20px;
     margin: 30px;
 }
+.footer-position {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+.year {
+    position: absolute;
+    top: 970px;
+}
