@@ -1,0 +1,46 @@
+h1 {
+    font-size: 3rem;
+}
+.bold {
+    font-weight: 700;
+    color: goldenrod;
+}
+.date {
+   font-style: italic; 
+}
+.subtitle {
+    color:brown;
+    text-decoration: underline;
+}
+.location {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+.block-about-work {
+    width: 600px;
+    height: 900px;
+    padding: 20px;
+    margin: 30px;
+    border: 2px dotted #00f;
+    background-color: blanchedalmond;
+}
+.block-about-me {
+    width: 600px;
+    height: 900px;
+    padding: 20px;
+    margin: 30px;
+}
+.footer-position {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+.year {
+    position: absolute;
+    top: 970px;
+}
